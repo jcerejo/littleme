@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Beauty &#8211; Little Me wonders</title>
+	<atom:link href="/tag/beauty/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Baby Box Gifts</description>
+	<lastBuildDate>Thu, 12 Jan 2023 04:42:00 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Little Fashionistas&#8217; Wardrobe</title>
+		<link>/little-fashionistas-wardrobe/</link>
+					<comments>/little-fashionistas-wardrobe/#comments</comments>
+		
+		<dc:creator><![CDATA[Jcerejo]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2023 04:42:00 +0000</pubDate>
+				<category><![CDATA[Baby Care]]></category>
+		<category><![CDATA[Baby Health]]></category>
+		<category><![CDATA[Beauty]]></category>
+		<category><![CDATA[Ear Care]]></category>
+		<category><![CDATA[electric]]></category>
+		<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Jwerly]]></category>
+		<category><![CDATA[Mimimal]]></category>
+		<guid isPermaLink="false">http://localhost/wordpress/buny/?p=3976</guid>
+
+					<description><![CDATA[From everyday outfits to unique styling tips, Little Fashionistas’ Wardrobe is not just a place to shop, but also a community where you can connect and exchange ideas Sed a libero. Mauris sollicitudin fermentum libero. Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui id egestas quam mauris ut lacus. Fusce risus nisl, viverra [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="our-goal">From everyday outfits to unique styling tips, Little Fashionistas’ Wardrobe is not just a place to shop, but also a community where you can connect and exchange ideas</p>
+
+
+
+<p class="has-text-align-center">Sed a libero. Mauris sollicitudin fermentum libero. Phasellus volutpat, metus eget egestas mollis, lacus lacus blandit dui
+id egestas quam mauris ut lacus. Fusce risus nisl, viverra et, tempor et, pretium in, sapien. Cras ultricies mi eu turpis hendrerit fringilla.In auctor lobortis lacus. Praesent turpis. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. </p>
+
+
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1410" height="400" src="/wp-content/uploads/2023/01/banner-blog-1.jpg" alt="" class="wp-image-48293"/></figure>
+
+
+
+<blockquote><p>“The public is more familiar with bad design than good design. It is, in effect,
+conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring.”</p></blockquote>
+
+
+
+<p class="has-text-align-center">Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Aenean commodo ligula eget dolor. Nulla facilisi. Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.</p>
+
+
+
+<p class="has-text-align-center">Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Nulla neque dolor, sagittis eget, iaculis quis, molestie non, velit. Etiam rhoncus. Nunc interdum lacus sit amet orci. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/little-fashionistas-wardrobe/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
