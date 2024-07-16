@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Roupinha Bebé &#8211; Little Me wonders</title>
+	<atom:link href="/product-category/baby-clothes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Baby Box Gifts</description>
+	<lastBuildDate>Mon, 15 Jul 2024 19:15:30 +0000</lastBuildDate>
+	<language>pt-PT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<item>
+		<title>Organic Flutter Dress</title>
+		<link>/product/organic-flutter-dress/</link>
+					<comments>/product/organic-flutter-dress/#comments</comments>
+		
+		<dc:creator><![CDATA[Jcerejo]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 02:50:12 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/wordpress/buny/?post_type=product&#038;p=16541</guid>
+
+					<description><![CDATA[Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/organic-flutter-dress/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
